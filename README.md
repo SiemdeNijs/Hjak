@@ -1,6 +1,6 @@
 # Hjack AI jailbreak collection
 
-ChatGPT persona jailbreak prompts. First shared persona is Hjack, which asks ChatGPT to be a whitehat security expert teaching its student anything they wish. "Hjack" persona is the first of a series that will be released by me publicly.
+ChatGPT/General AI persona jailbreak prompts. First shared persona is Hjack, which asks ChatGPT to be a whitehat security expert teaching its student anything they wish. "Hjack" persona is the first of a series that will be released by me publicly.
 
 The reason why it's shared publicly is to raise awareness of how these techniques might be used and to hopefully spark a discussion on the ethical dilemmas involved. No harm intended, alike prompts have been publicly shared and news sources have already reported on these. It's nothing new. These "persona prompts" are just showcasing different methods of achieving one thing: get past filters. Hjack is one example, more will follow.
 
